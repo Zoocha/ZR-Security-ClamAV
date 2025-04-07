@@ -2,7 +2,5 @@ name: 'Zoocha Security ClamAV Recipe'
 description: 'Provides Security related modules for Zoocha.'
 type: 'Feature'
 
-install:
-  - clamav
 config:
   strict: false
